@@ -1,0 +1,13 @@
+collections:
+- name: https://github.com/ansible-collections/amazon.aws
+  type: git
+  version: 1.5.1
+- name: https://github.com/ansible-collections/community.aws
+  type: git
+  version: 1.5.0
+- name: https://github.com/ansible-collections/community.general
+  type: git
+  version: 3.8.1
+- name: https://github.com/ansible-collections/community.docker
+  type: git
+  version: 2.0.0
